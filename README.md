@@ -24,7 +24,7 @@ tip：收集自网络，不保证可用性，需要自己测试，iptv源自己�
 1.https://www.juwanhezi.com/other/jsonlist
 
 # 4.影视仓多仓源接口
-1.GitHub加速：https://gh-proxy.com/https://raw.githubusercontent.com/Xiaofeiji101/TVBOX/main/tvboxmuti.json
+1.GitHub加速：https://gh-proxy.com/https://raw.githubusercontent.com/aiyabudaniao/TVBOX/main/tvboxmuti.json
 
 # 5.iptv源
 
